@@ -1,2 +1,2 @@
-# Rezorpay-Clone
+# Razorpay-Clone
 website using tailwind(incomplete)
